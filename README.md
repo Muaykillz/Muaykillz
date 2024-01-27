@@ -10,7 +10,6 @@ Hey there! I'm Muaykillz, an AI enthusiast, and a full-stack developer with a bu
 
 ## Skills
 
-```markdown
 # Frontend
 - HTML
 - CSS
