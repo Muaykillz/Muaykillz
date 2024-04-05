@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://shorturl.at/mvM04](https://shorturl.at/mvM04)
 
-- ⚡ Fun fact **Falling ❤️‍🔥 in Hiphop🎤 and EUC🛹**
+- ⚡ Fun fact: I'm **Falling ❤️‍🔥 in Hiphop music🎤 and EUC🛹**
 
 ### ✍🏻 Blogs posts
 <!-- BLOG-POST-LIST:START -->
