@@ -5,7 +5,7 @@
 
 - 📚 I’m currently studying at **King Mongkut's University of Technology Thonburi**
 
-- 🌱 I’m CTO in [Plook](https://plook.vercel.app/)
+- 🌱 I’m CTO in **Plook**
 
 - 🧐 I’m currently interesting **Tech start-up and Business**
 
@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://shorturl.at/mvM04](https://shorturl.at/mvM04)
 
-- ⚡ Fun fact **Falling ❤️‍🔥 in Hiphop🎤, EUC🛹**
+- ⚡ Fun fact **Falling ❤️‍🔥 in Hiphop🎤 and EUC🛹**
 
 ### ✍🏻 Blogs posts
 <!-- BLOG-POST-LIST:START -->
