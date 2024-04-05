@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.ibb.co/Px83MMz/428634712-959374149345417-4439552484171984786-n.jpg" alt="428634712-959374149345417-4439552484171984786-n" border="0"></p>
+<p align="center"><img src="https://i.ibb.co/0fgffp6/Untitled-design.jpg" alt="428634712-959374149345417-4439552484171984786-n" border="0"></p>
 
 <h1 align="center">Hi 👋, I'm Mudev</h1>
 <p align="center">An AI enthusiast, and a Line developer with a 🔥 passion for problem-solving and innovation in the tech world. 🏃🏻</p>
