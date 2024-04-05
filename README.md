@@ -5,7 +5,7 @@
 
 - 📚 I’m currently studying at **King Mongkut's University of Technology Thonburi**
 
-- 🌱 I’m working on [Plook](https://plook.vercel.app/)
+- 🌱 I’m CTO in [Plook](https://plook.vercel.app/)
 
 - 🧐 I’m currently interesting **Tech start-up and Business**
 
