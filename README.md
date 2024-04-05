@@ -15,7 +15,7 @@
 
 - 📫 How to reach me [**Thinnaphat Kanchina**](https://www.facebook.com/profile.php?id=100004185094386)
 
-- 📄 Know about my experiences [https://shorturl.at/mvM04](https://shorturl.at/mvM04)
+- 📄 Know about my experiences in my [**PORTFOLIO**](https://shorturl.at/mvM04)
 
 - ⚡ Fun fact: I'm **Falling ❤️‍🔥 in Hiphop music🎤 and EUC🛹**
 
