@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Line chat bot, AI, Image processing, Website developing and Innovation**
 
-- 📫 How to reach me **https://www.facebook.com/profile.php?id=100004185094386**
+- 📫 How to reach me [**Thinnaphat Kanchina**](https://www.facebook.com/profile.php?id=100004185094386)
 
 - 📄 Know about my experiences [https://shorturl.at/mvM04](https://shorturl.at/mvM04)
 
