@@ -19,12 +19,12 @@
 
 - ⚡ Fun fact **Falling ❤️‍🔥 in Hiphop🎤, EUC🛹**
 
-### Blogs posts
+### ✍🏻 Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [สร้าง Line chat bot ด้วย Flask Framework](https://medium.com/@mzgamer3360/%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87-linebot-%E0%B8%A3%E0%B9%88%E0%B8%A7%E0%B8%A1%E0%B8%81%E0%B8%B1%E0%B8%9A-python-flask-ad4c465613aa)
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/thinnaphat-kanchina-6415ab2a5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thinnaphat-kanchina-6415ab2a5" height="30" width="40" /></a>
 <a href="https://kaggle.com/muaykill" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="muaykill" height="30" width="40" /></a>
