@@ -34,15 +34,15 @@
 
 <h3 align="left">Languages:</h3>
 
-![Languages](https://skillicons.dev/icons?i=python,html,css,javascript,c,cs,md)
+![Languages](https://skillicons.dev/icons?i=python,html,css,javascript,c,cs,md&theme=light)
 
 <h3 align="left">AI Tech Stacks:</h3>
 
-![AI Tech Stacks](https://skillicons.dev/icons?i=pytorch,sklearn,tensorflow,opencv)
+![AI Tech Stacks](https://skillicons.dev/icons?i=pytorch,sklearn,tensorflow,opencv&theme=light)
 
 <h3 align="left">Framworks & Tools:</h3>
 
-![Framework_Tools](https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,django,anaconda,firebase,gcp,vercel,aws,azure,bootstrap,react,astro,materialui,vite,vscode,arduino,unity,selenium,apple)
+![Framework_Tools](https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,django,anaconda,firebase,gcp,vercel,aws,azure,bootstrap,react,astro,materialui,vite,vscode,arduino,unity,selenium,apple&theme=light)
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/mudev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mudev" /></a></p><br><br>
