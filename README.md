@@ -20,9 +20,10 @@
 - ⚡ Fun fact: I'm **Falling ❤️‍🔥 in Hiphop music🎤 and EUC🛹**
 
 ### ✍🏻 Blogs posts
-<!-- BLOG-POST-LIST:START -->
+- [Exploring Kolmogorov-Arnold Networks(KANs): ทางเลือกใหม่ที่น่าสนใจสำหรับ MLPs ฉบับคร่าวๆ](https://medium.com/@mzgamer3360/exploring-kolmogorov-arnold-networks-kans-%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B9%80%E0%B8%A5%E0%B8%B7%E0%B8%AD%E0%B8%81%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%99%E0%B9%88%E0%B8%B2%E0%B8%AA%E0%B8%99%E0%B9%83%E0%B8%88%E0%B8%AA%E0%B8%B3%E0%B8%AB%E0%B8%A3%E0%B8%B1%E0%B8%9A-mlps-%E0%B8%89%E0%B8%9A%E0%B8%B1%E0%B8%9A%E0%B8%84%E0%B8%A3%E0%B9%88%E0%B8%B2%E0%B8%A7%E0%B9%86-b1565a052c6d)
+- [สรุปงาน LINE DEVELOPER MEETUP#5: อัปเดต LINE API ใหม่ประจำครึ่งปีแรก 2024](https://medium.com/@mzgamer3360/%E0%B8%AA%E0%B8%A3%E0%B8%B8%E0%B8%9B%E0%B8%87%E0%B8%B2%E0%B8%99-line-developer-meetup-5-%E0%B8%AD%E0%B8%B1%E0%B8%9B%E0%B9%80%E0%B8%94%E0%B8%95-line-api-%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%88%E0%B8%B3%E0%B8%84%E0%B8%A3%E0%B8%B6%E0%B9%88%E0%B8%87%E0%B8%9B%E0%B8%B5%E0%B9%81%E0%B8%A3%E0%B8%81-2024-6f5c11dfeb00)
 - [สร้าง Line chat bot ด้วย Flask Framework](https://medium.com/@mzgamer3360/%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87-linebot-%E0%B8%A3%E0%B9%88%E0%B8%A7%E0%B8%A1%E0%B8%81%E0%B8%B1%E0%B8%9A-python-flask-ad4c465613aa)
-<!-- BLOG-POST-LIST:END -->
+
 
 <h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
