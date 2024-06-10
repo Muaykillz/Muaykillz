@@ -9,7 +9,7 @@
 
 - 🧐 I’m currently interesting **Tech start-up and Business**
 
-- 👨‍💻 My personal Website at [mudev.web.app](https://mudev-portfolio.web.app/) (Soon . . 😅)
+- 👨‍💻 My personal Website at [mudev.web.app](https://mudev-portfolio.web.app/)
 
 - 💬 Ask me about **Line chat bot, AI, Image processing, Website developing and Innovation**
 
