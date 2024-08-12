@@ -5,7 +5,9 @@
 
 - 📚 I’m currently studying at **King Mongkut's University of Technology Thonburi**
 
-- 🌱 I’m CTO in **Plook**
+- 💻 I'm developing SUMMO-AI chatbot for summarize knowledge infomation from social media with Multi-modal language model.
+
+- 🌱 I’m CTO and Co-Founder at **Plook**
 
 - 🧐 I’m currently interesting **Tech start-up and Business**
 
