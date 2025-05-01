@@ -5,19 +5,9 @@
 
 - 💻 I'm developing SUMMO-AI chatbot for summarize knowledge infomation from social media with Multi-modal language model.
 
-- 🌱 I’m CTO and Co-Founder at **Plook**
-
-- 🧐 I’m currently interesting **Tech start-up and Business**
-
 - 👨‍💻 My personal Website at [mudev.web.app](https://mudev-portfolio.web.app/)
 
 - 💬 Ask me about **Line chat bot, AI, Image processing, Website developing and Innovation**
-
-- 📫 How to reach me [**Thinnaphat Kanchina**](https://www.facebook.com/profile.php?id=100004185094386)
-
-- 📄 Know about my experiences in my [**PORTFOLIO**](https://shorturl.at/mvM04)
-
-- ⚡ Fun fact: I'm **Falling ❤️‍🔥 in Hiphop music🎤 and EUC🛹**
 
 ### ✍🏻 Blogs posts
 - [Exploring Kolmogorov-Arnold Networks(KANs): ทางเลือกใหม่ที่น่าสนใจสำหรับ MLPs ฉบับคร่าวๆ](https://medium.com/@mzgamer3360/exploring-kolmogorov-arnold-networks-kans-%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B9%80%E0%B8%A5%E0%B8%B7%E0%B8%AD%E0%B8%81%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%99%E0%B9%88%E0%B8%B2%E0%B8%AA%E0%B8%99%E0%B9%83%E0%B8%88%E0%B8%AA%E0%B8%B3%E0%B8%AB%E0%B8%A3%E0%B8%B1%E0%B8%9A-mlps-%E0%B8%89%E0%B8%9A%E0%B8%B1%E0%B8%9A%E0%B8%84%E0%B8%A3%E0%B9%88%E0%B8%B2%E0%B8%A7%E0%B9%86-b1565a052c6d)
